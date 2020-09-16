@@ -1,19 +1,19 @@
 # Vasin Vasily  
   
-Cv for Junior-developer  
+### Cv for Junior-developer  
   
-### Contacts
+#### Contacts
 * Phone: 8(906) 340-18-00  
 * E-mail: vasin.vasily.a@gmail.com  
   
-### Abouts  
+#### Abouts  
   
-### Skills  
+#### Skills  
   
-### Examples of work  
+#### Examples of work  
   
-### Work experience  
+#### Work experience  
   
-### Education  
+#### Education  
   
-### English language  
+#### English language  
