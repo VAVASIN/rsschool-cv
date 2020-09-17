@@ -3,8 +3,8 @@
 ### Cv for Junior-developer  
   
 #### Contacts
-* Phone: 8(906) 340-18-00  
-* E-mail: vasin.vasily.a@gmail.com  
+* **Phone:** 8(906) 340-18-00  
+* **E-mail:** vasin.vasily.a@gmail.com  
   
 #### About  
 From 2010 to 2018 I worked as a marketer.
@@ -53,6 +53,7 @@ Php  | 2
     * **Stack:** html, Css, bootstrap  
 
 #### Education  
-  * Rolling Scopes 2020 Q3
+  * Rolling Scopes 2020 Q3  
+
 #### English language  
-  * B2
+  * B2  
