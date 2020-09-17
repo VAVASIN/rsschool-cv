@@ -51,6 +51,7 @@ Php  | 2
     * Jan. 2019 - Jun. 2019
     * **Tasks:** create landing pages, support CRM AmoCrm, support e-mail servers
     * **Stack:** html, Css, bootstrap  
+
 #### Education  
   * Rolling Scopes 2020 Q3
 #### English language  
