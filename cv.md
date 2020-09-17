@@ -21,7 +21,8 @@ Js  | 1
 Docker  | 2
 Node/npm  | 1
 Php  | 2
-Git  | 2
+Git  | 2  
+
 #### Examples of work  
 * Blogs:  
     * [ruscur.ru](https://ruscur.ru)    
@@ -34,7 +35,7 @@ Git  | 2
     * [pogonage.ru](https://pogonage.ru/)
     * [prosto-beloe.ru](http://prosto-beloe.ru/)
 * Portals:
-    * [ceny.ortodonta.ru](http://ceny.ortodonta.ru/)
+    * [ceny.ortodonta.ru](http://ceny.ortodonta.ru/)  
 #### Work experience  
 * **Gidfinance**  : Web-developer
     * Feb. 2020 - today
@@ -47,7 +48,7 @@ Git  | 2
 * **Be-Force**  : Web-developer
     * Jan. 2019 - Jun. 2019
     * **Tasks:** create landing pages, support CRM AmoCrm, support e-mail servers
-    * **Stack:** html, Css, bootstrap
+    * **Stack:** html, Css, bootstrap  
 #### Education  
   * Rolling Scopes 2020 Q3
 #### English language  
