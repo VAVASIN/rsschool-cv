@@ -22,7 +22,17 @@ Docker  | 2
 Node/npm  | 1
 Php  | 2
 #### Examples of work  
-  
+* Blogs:  
+    * [ruscur.ru](https://ruscur.ru)    
+    * [gidfinance.ru](https://gidfinance.ru)
+* Landings:  
+    * [banket.biz](https://banket.biz/)
+    * [srubovoidom.ru](https://srubovoidom.ru/)
+    * [kraskaderevo.ru](https://kraskaderevo.ru/)
+    * [pogonage.ru](https://pogonage.ru/)
+    * [prosto-beloe.ru](http://prosto-beloe.ru/)
+* Portals:
+    * [ceny.ortodonta.ru](http://ceny.ortodonta.ru/)
 #### Work experience  
   
 #### Education  
