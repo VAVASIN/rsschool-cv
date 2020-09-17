@@ -21,7 +21,6 @@ Js  | 1
 Docker  | 2
 Node/npm  | 1
 Php  | 2
-Git  | 2  
 
 #### Examples of work  
 * Blogs:  
