@@ -12,6 +12,13 @@ I always liked IT development, so I decided to change my profile.
 There is still little practice and skills in WEB development, but I constantly study courses and video tutorials on html / css, JS, PHP.
 
 #### Skills  
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+  
+
 Skill  | 10 point scale
 ------------- | -------------
 Html  | 7
