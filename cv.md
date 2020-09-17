@@ -26,6 +26,7 @@ Php  | 2
     * [ruscur.ru](https://ruscur.ru)    
     * [gidfinance.ru](https://gidfinance.ru)
 * Landings:  
+    * [orgmlm.ru](https://orgmlm.ru/webinar.html)
     * [banket.biz](https://banket.biz/)
     * [srubovoidom.ru](https://srubovoidom.ru/)
     * [kraskaderevo.ru](https://kraskaderevo.ru/)
@@ -34,7 +35,10 @@ Php  | 2
 * Portals:
     * [ceny.ortodonta.ru](http://ceny.ortodonta.ru/)
 #### Work experience  
-  
+* **Perfect Organics**  : Web-developer
+    * Jun. 2019 - Feb. 2020
+    * **Tasks:** create, поддержка lagacy проекта на yii2 и развитие магазина на Bitrix24
+    * **Stack:** bitrix, Yii2, UiKit, bootstrap
 #### Education  
   
 #### English language  
